@@ -36,6 +36,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://hex.co', status: 301, note: 'declared website redirects to https://www.parameter.ai/?from=hex — a different registrable domain (hex.co -> parameter.ai), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://framerusercontent.com/images/Hioh4DamknpQbzzIX7Z0Xt1PAk0.webp
 x-type: company
 x-source: vc-portfolio
